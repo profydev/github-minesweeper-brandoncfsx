@@ -14,6 +14,15 @@
     "Clear B1",
     "Clear G7",
     "Clear F7",
-    "Clear E7"
+    "Clear E7",
+    "Clear A1",
+    "Clear A2",
+    "Flag A3",
+    "Flag D7",
+    "Clear C7",
+    "Clear H7",
+    "Clear H8",
+    "Clear G8",
+    "Clear F8"
   ]
 }
